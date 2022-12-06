@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou Luísa Ferraz!</h1>
-<h3 align="center">Engenheira apaixonada por Análise de Dados e Inovação!</h3>
+<h3 align="center">Engenheira entusiasta da Análise de Dados e Business Intelligence!</h3>
 
 - 🔭 Atualmente estou em transição de carreira **de Gestão e Planejamento Financeiro para Tecnologia**
 
