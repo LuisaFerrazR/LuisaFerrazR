@@ -9,7 +9,7 @@
 
 - 📝 Eu escrevo artigos no Linkedin [https://www.linkedin.com/in/luisaferrazrs/](https://www.linkedin.com/in/luisaferrazrs/)
 
-- 💬 Me pergunte sobre **Excel, Power BI, SQL, Python e Machine Learning**
+- 💬 Me pergunte sobre **Excel, Power BI, Bancos de dados relacionais (SQL), Python e Machine Learning**
 
 - 📫 Você me acha através do e-mail **luisafrds@gmail.com**
 
