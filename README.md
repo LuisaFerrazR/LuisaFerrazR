@@ -1,15 +1,15 @@
 <h1 align="center">Olá! 👋 Eu sou Luísa Ferraz!</h1>
-<h3 align="center">Engenheira entusiasta da Análise de Dados e Business Intelligence!</h3>
+<h3 align="center">Engenheira entusiasta de Dados!</h3>
 
-- 🔭 Atualmente estou em transição de carreira **de Gestão e Planejamento Financeiro para Tecnologia**
+- 🔭 Atualmente estou em transição de carreira de Gestão e Planejamento Financeiro para **Tecnologia**
 
-- 🌱 Atualmente estou aprofundando os meus estudos em **SQL na Udacity e Python na Data Science Academy**
+- 🌱 Atualmente estou aprofundando os meus estudos em **Formação SQL Server 2017 Desenvolvedor Expert SQL e T-SQL na Udemy**
 
-- 👯 Estou querendo colaborar em projetos de **Ciências de Dados**
+- 👯 Estou querendo colaborar em projetos de **Análise de Dados/Ciências de Dados/Engenharia de Dados**
 
 - 📝 Eu escrevo artigos no Linkedin [https://www.linkedin.com/in/luisaferrazrs/](https://www.linkedin.com/in/luisaferrazrs/)
 
-- 💬 Me pergunte sobre **Excel, Power BI, Bancos de dados relacionais (SQL), Python e Machine Learning**
+- 💬 Me pergunte sobre **Excel, Power BI, SQL, Python e Machine Learning**
 
 - 📫 Você me acha através do e-mail **luisafrds@gmail.com**
 
