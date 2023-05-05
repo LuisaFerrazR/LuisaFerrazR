@@ -1,9 +1,9 @@
 <h1 align="center">Olá! 👋 Eu sou Luísa Ferraz!</h1>
 <h3 align="center">Engenheira encantada por Dados!</h3>
 
-- 🔭 Atualmente estou em transição de carreira de Gestão e Planejamento Financeiro para **Tecnologia**
+- 🔭 Atualmente estou em transição de carreira de Planejamento Financeiro para **Tecnologia**
 
-- 🌱 Estou aprofundando os meus estudos em **Formação SQL Server 2017 Desenvolvedor Expert SQL e T-SQL na Udemy** e **Cloud no Programa Start by Capgemini**
+- 🌱 Estou aprofundando os meus estudos em **SQL** na **Formação SQL Server 2017 Desenvolvedor Expert SQL e T-SQL na Udemy**
 
 - 🙋‍♀️ Sou colaboradora da comunidade **Mulheres em Dados** na área de **Power BI** [https://www.linkedin.com/company/mulheresemdados/](https://www.linkedin.com/company/mulheresemdados/)
 
@@ -11,7 +11,7 @@
 
 - 📝 Eu escrevo artigos no Linkedin [https://www.linkedin.com/in/luisaferrazrs/](https://www.linkedin.com/in/luisaferrazrs/)
 
-- 💬 Me pergunte sobre **Excel, Power BI, SQL, Python e Machine Learning**
+- 💬 Me pergunte sobre **Excel, Power BI, DAX, SQL, Python e Machine Learning**
 
 - 📫 Você me acha através do e-mail **luisafrds@gmail.com**
 
